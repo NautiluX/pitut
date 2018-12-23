@@ -17,7 +17,7 @@ Auf dem Laptop nun den Ordner der Micro-SD Karte öffnen und den Inhalt des NOOB
 
 Anschliessend die Micro-SD Karte in eurem Betriebssystem auswerfen, den Adapter aus dem Kartenleser nehmen und die Micro-SD Karte aus dem Adapter entfernen. Diese wird nun in den Micro-SD Slot eures Raspberry Pi eingesteckt.
 
-![Micro-SD Karte einstecken](insert-micro-sd.jpg)
+:x: ![Micro-SD Karte einstecken](insert-micro-sd.jpg)
 
 ## Raspberry Pi anschliessen :grapes:
 
