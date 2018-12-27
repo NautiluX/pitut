@@ -13,7 +13,9 @@ Geht mit eurem Laptop auf [https://raspberrypi.org](https://raspberrypi.org). Un
 
 Schliesst euer Kartenlesegerät an den Laptop an und steckt die Micro-SD Karte in den Micro-SD Adapter. Nun den Adapter in das Kartenlesegerät stecken.
 
-Auf dem Laptop nun den Ordner der Micro-SD Karte öffnen und den Inhalt des NOOBS Lite ZIP Archivs auf die Micro-SD Karte entpacken.
+Ladet euch das Programm [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) herunter und formattiert die Micro-SD Karte. *Achtung: Stellt sicher, dass ihr das richtige Laufwerk ausgewählt habt!*
+
+Auf dem Laptop nun den Ordner der Micro-SD Karte öffnen und den Inhalt des NOOBS ZIP Archivs auf die Micro-SD Karte entpacken.
 
 Anschliessend die Micro-SD Karte in eurem Betriebssystem auswerfen, den Adapter aus dem Kartenleser nehmen und die Micro-SD Karte aus dem Adapter entfernen. Diese wird nun in den Micro-SD Slot eures Raspberry Pi eingesteckt.
 
