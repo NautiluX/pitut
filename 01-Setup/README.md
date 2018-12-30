@@ -35,9 +35,12 @@ Mithilfe der NOOBS Oberfläche könnt ihr jetzt mit der Maus Raspbian auswählen
 
 ![NOOBS](NOOBS-install-1.jpg)
 
-Im Anschluss an die Installation sollte das Raspberry Pi automatisch Raspbian starten.
+Mit einem klick auf Yes startet ihr die Installation vom Raspbian. Das kann ein paar Minuten dauern.
 
 ![NOOBS](NOOBS-install-2.jpg)
+
+Im Anschluss an die Installation sollte das Raspberry Pi automatisch Raspbian starten.
+
 
 ## Raspbian einrichten :grapes:
 
