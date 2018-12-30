@@ -27,13 +27,17 @@ Nachdem die NOOBS Micro-SD Karte in das Raspberry Pi eingesteckt ist, müssen no
 
 Wenn alles klappt, sollte NOOBS euch einem Bildschirm wie folgendem begrüssen.
 
-:x: ![NOOBS](NOOBS)
+![NOOBS](NOOBS.jpg)
 
 ## Raspbian installieren :grapes:
 
 Mithilfe der NOOBS Oberfläche könnt ihr jetzt mit der Maus Raspbian auswählen und mit einem Klick auf Install auf die Micro-SD Karte installieren. Eventuell müsst ihr noch einmal bestätigen, dass NOOBS Raspbian installieren soll. Der Installer weisst euch hier ein letztes mal darauf hin, dass alle Daten auf der Micro-SD Karte dabei verloren gehen.
 
+![NOOBS](NOOBS-installer-1.jpg)
+
 Im Anschluss an die Installation sollte das Raspberry Pi automatisch Raspbian starten.
+
+![NOOBS](NOOBS-installer-2.jpg)
 
 ## Raspbian einrichten :grapes:
 
