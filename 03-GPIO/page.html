@@ -1,9 +1,20 @@
 <html>
     <head>
-    <meta http-equiv="refresh" content="5" >
     <title>Messwerte</title>
+    <script>
+        window.onload = function() {
+            var image = document.getElementById("graph");
+
+            function updateImage() {
+                image.src = image.src.split("?")[0] + "?" + new Date().getTime();
+            }
+
+            setInterval(updateImage, 10000);
+        }
+    </script>
+
     </head>
     <body>
-        <img src="dht11_plot.png"></img>
+        <img src="dht11_plot.png" id="graph"></img>
     </body>
 </html>
