@@ -1,7 +1,10 @@
+#!/usr/bin/env python
+
 import RPi.GPIO as GPIO
 import Adafruit_DHT
 import time
 import datetime
+import sys
 
 
 GPIO.setmode(GPIO.BCM)
@@ -17,6 +20,7 @@ try:
         now = datetime.datetime.now()
         now_iso = now.isoformat()
         print("%s,%s,%s" % (now_iso, humidity, temperature))
+        sys.stdout.flush()
         GPIO.output(17, GPIO.LOW)
         time.sleep(10)
 finally:

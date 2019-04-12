@@ -1,6 +1,4 @@
 #!/bin/bash
 
-python plot.py &
-python dht_print.py > data.csv
-python -m SimpleHTTPServer 8080
-
+./dht_csv.py > data.csv &
+./dht_pandas_page.py
